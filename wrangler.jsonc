@@ -9,9 +9,9 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "your-database-name",
-      "database_id": "your-database-id",
-      "migrations_dir": "drizzle"
+      "database_name": "vibe",
+      "database_id": "732ff21e-318f-4cb2-98f7-df96e895d30f",
+      "migrations_dir": "./drizzle"
     }
-  ]
+  ],
 }
